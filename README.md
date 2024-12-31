@@ -23,7 +23,7 @@ The Project was reviving a VDI Lab Setup, the lab setup had been grounded for ov
 ![IMG20221021125446](https://github.com/user-attachments/assets/14b07213-b3e0-4539-95f7-3243a13237d8)
 
 
-<h3>Project Outcome: Success</h3>
+<h3> Project Outcome: Successful </h3>
 
 
 
